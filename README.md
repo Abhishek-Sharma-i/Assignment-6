@@ -1,4 +1,5 @@
-<img width="1399" height="766" alt="Screenshot 2025-07-11 215812" src="https://github.com/user-attachments/assets/00f21af3-116e-4dad-8b9f-55b6ac9f1086" />
+<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/a44cc976-ef9e-4ba6-acaa-5ae5ed3587fc" />
+
 # 🚀 Data Engineering Assignment – Azure Data Factory Based Workflows
 
 This project showcases multiple real-world Data Engineering tasks implemented using **Azure Data Factory (ADF)**, **Azure SQL Database**, **Blob Storage**, and **Self-hosted Integration Runtime (SHIR)**.
